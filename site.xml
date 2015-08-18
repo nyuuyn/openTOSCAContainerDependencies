@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.opentosca.container.targetplatform.feature_1.0.0.201508181302.jar" id="org.opentosca.container.targetplatform.feature" version="1.0.0.201508181302">
+      <category name="OpenTOSCA Container"/>
+   </feature>
+   <category-def name="OpenTOSCA Container" label="OpenTOSCA Container"/>
+</site>
