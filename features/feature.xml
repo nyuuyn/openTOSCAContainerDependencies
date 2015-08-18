@@ -2,7 +2,7 @@
 <feature
       id="org.opentosca.container.targetplatform.feature"
       label="OpenTOSCA Container TargetPlatform Feature"
-      version="1.0.0.qualifier">
+      version="1.0.0.201508131910">
 
    <description url="http://www.opentosca.org">
       Contains Third-Party bundles for the OpenTOSCA Container
